@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  num_cheeseburgers: 1
+  cheeseburger_limit: 1
+
+two:
+  name: MyString
+  num_cheeseburgers: 1
+  cheeseburger_limit: 1
